@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jacoco.examples.java.gradle.ContributorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-11-13T13:38:26" hostname="TOSH" time="0.003">
+  <properties/>
+  <testcase name="testToString" classname="org.jacoco.examples.java.gradle.ContributorTest" time="0.001"/>
+  <testcase name="testGetCommitNum" classname="org.jacoco.examples.java.gradle.ContributorTest" time="0.0"/>
+  <testcase name="testGetName" classname="org.jacoco.examples.java.gradle.ContributorTest" time="0.0"/>
+  <testcase name="testSetCommitNum" classname="org.jacoco.examples.java.gradle.ContributorTest" time="0.0"/>
+  <testcase name="testSetName" classname="org.jacoco.examples.java.gradle.ContributorTest" time="0.0"/>
+  <system-out><![CDATA[toString
+getCommitNum
+getName
+setCommitNum
+setName
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
