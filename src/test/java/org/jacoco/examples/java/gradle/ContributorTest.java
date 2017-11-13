@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
  */
 public class ContributorTest {
     
-    Contributor contributor = new Contributor("test", 0);
+    private Contributor contributor = new Contributor("test", 0);
     /**
      * Test of getName method, of class Contributor.
      */

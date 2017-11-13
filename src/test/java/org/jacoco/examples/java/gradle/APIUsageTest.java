@@ -6,7 +6,6 @@
 package org.jacoco.examples.java.gradle;
 
 import java.util.ArrayList;
-import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -16,7 +15,7 @@ import static org.junit.Assert.*;
  */
 public class APIUsageTest {
     
-    APIUsage instance = new APIUsage();
+    private APIUsage instance = new APIUsage();
     /**
      * Test of getTenMostCommited method, of class APIUsage.
      */

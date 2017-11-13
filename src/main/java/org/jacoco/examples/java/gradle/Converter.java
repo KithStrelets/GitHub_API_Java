@@ -9,7 +9,7 @@ import org.json.JSONObject;
 public class Converter {
     
     public ArrayList<Repository> repositoryDeserialize(String targetJsonString){
-
+        
         if(targetJsonString.length() == 0)return null;
              JSONObject jsonObj = new JSONObject(targetJsonString);
              Repository result;
@@ -49,7 +49,6 @@ public class Converter {
         ArrayList<Contributor> temp = new ArrayList<>();
         ArrayList<Contributor> res = new ArrayList<>();
         HashMap<String,Integer> instance = contributors;
-        //instance.remove("total");
         instance.keySet().forEach((obj) -> {
             temp.add(new Contributor(obj, instance.get(obj)));
         });

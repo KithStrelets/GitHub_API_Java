@@ -24,7 +24,7 @@ import org.apache.http.util.EntityUtils;
  * 2017-09-01
  */
 public class APIUsage {
-    private final String TOKEN = "fe0896aa69f4ffbfa234b1e482f6a2c9260c5772";
+    private final String TOKEN = "350f86c02aaae9830fd2c185006b3c11ff00e9ec";
     private URI uri;
     private final Converter CONVERTER = new Converter();
      
