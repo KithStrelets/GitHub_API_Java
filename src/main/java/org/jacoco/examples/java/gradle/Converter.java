@@ -9,8 +9,8 @@ import org.json.JSONObject;
 public class Converter {
     
     public ArrayList<Repository> repositoryDeserialize(String targetJsonString){
-        
-             if(targetJsonString.length() == 0)return null;
+
+        if(targetJsonString.length() == 0)return null;
              JSONObject jsonObj = new JSONObject(targetJsonString);
              Repository result;
              ArrayList<Repository> repsList = new ArrayList<>();

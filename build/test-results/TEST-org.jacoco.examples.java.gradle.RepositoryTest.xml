@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.jacoco.examples.java.gradle.RepositoryTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2017-11-13T13:38:27" hostname="TOSH" time="0.011">
+<testsuite name="org.jacoco.examples.java.gradle.RepositoryTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2017-11-13T15:27:04" hostname="TOSH" time="0.024">
   <properties/>
-  <testcase name="testGetCommitsNum" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
+  <testcase name="testGetCommitsNum" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.001"/>
   <testcase name="testGetStars" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.001"/>
   <testcase name="testSetDescription" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
   <testcase name="testToString" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
   <testcase name="testSetCommitsNum" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
-  <testcase name="testGetTopContributors" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.002"/>
+  <testcase name="testGetTopContributors" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.005"/>
   <testcase name="testGetName" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
-  <testcase name="testSetLanguage" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.001"/>
-  <testcase name="testGetLanguage" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
-  <testcase name="testSetTopContributors" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.003"/>
-  <testcase name="testGetDescription" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.001"/>
-  <testcase name="testGetUrl" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
+  <testcase name="testSetLanguage" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
+  <testcase name="testGetLanguage" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.001"/>
+  <testcase name="testSetTopContributors" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.008"/>
+  <testcase name="testGetDescription" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
+  <testcase name="testGetUrl" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.001"/>
   <testcase name="testSetName" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
   <testcase name="testSetUrl" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
   <testcase name="testSetStars" classname="org.jacoco.examples.java.gradle.RepositoryTest" time="0.0"/>
