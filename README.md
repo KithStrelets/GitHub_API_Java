@@ -5,14 +5,14 @@
 
 ## Most starred and commited repositories for 2017-09-01..2017-09-07
 <ol>
-<li><ul>Repository{
+<li><ul style="list-style-type: none;>Repository{
 	<li style="list-style-type: none;>Name = torvalds/linux, </li>
 	<li style="list-style-type: none;>Url = https://github.com/torvalds/linux, </li>
 	<li style="list-style-type: none;>Stars = 51840, </li>
 	<li style="list-style-type: none;>Description = Linux kernel source tree, </li>
 	<li style="list-style-type: none;>Language = C, </li>
 	<li style="list-style-type: none;>Commits = 991, </li>
-	<li style="list-style-type: none;><ul>Top Contributors = [
+	<ul>Top Contributors = [
 	<li>Contributor:  has made 230 commits, 
 	<li>Contributor: torvalds has made 194 commits, </li>
 	<li>Contributor: davem330 has made 142 commits, </li>
@@ -20,7 +20,7 @@
 	<li>Contributor: lag-linaro has made 43 commits]</li>
         </ul></li>
 }</ul></li>
-<li><ul>Repository{
+<li><ul style="list-style-type: none;>Repository{
 	<li style="list-style-type: none;>Name = tensorflow/tensorflow, </li>
 	<li style="list-style-type: none;>Url = https://github.com/tensorflow/tensorflow, </li>
 	<li style="list-style-type: none;>Stars = 76906, </li>
@@ -35,7 +35,7 @@
 	<li>Contributor: yardstick17 has made 3 commits]</li>
         </ul></li>
 }</ul></li>
-<li><ul>Repository{
+<li><ul style="list-style-type: none;>Repository{
 	<li style="list-style-type: none;>Name = Microsoft/vscode, </li>
 	<li style="list-style-type: none;>Url = https://github.com/Microsoft/vscode, </li>
 	<li style="list-style-type: none;>Stars = 38133, </li>
@@ -50,7 +50,7 @@
 	<li>Contributor: isidorn has made 15 commits]</li>
         </ul></li>
 }</ul></li>
-<li><ul>Repository{
+<li><ul style="list-style-type: none;>Repository{
 	<li style="list-style-type: none;>Name = apple/swift, </li>
 	<li style="list-style-type: none;>Url = https://github.com/apple/swift, </li>
 	<li style="list-style-type: none;>Stars = 41424, </li>
@@ -65,7 +65,7 @@
 	<li>Contributor: aschwaighofer has made 6 commits]</li>
         </ul></li>
 }</ul></li>
-<li><ul>Repository{
+<li><ul style="list-style-type: none;>Repository{
 	<li style="list-style-type: none;>Name = rails/rails, </li>
 	<li style="list-style-type: none;>Url = https://github.com/rails/rails, </li>
 	<li style="list-style-type: none;>Stars = 37635, </li>
@@ -80,7 +80,7 @@
 	<li>Contributor: koic has made 2 commits]</li>
         </ul></li>
 }</ul></li>
-<li><ul>Repository{
+<li><ul style="list-style-type: none;>Repository{
 	<li style="list-style-type: none;>Name = facebook/react-native, </li>
 	<li style="list-style-type: none;>Url = https://github.com/facebook/react-native, </li>
 	<li style="list-style-type: none;>Stars = 55790, </li>
@@ -91,7 +91,7 @@
 	<li>Contributor: facebook-github-bot has made 49 commits]</li>
         </ul></li>
 }</ul></li>
-<li><ul>Repository{
+<li><ul style="list-style-type: none;>Repository{
 	<li style="list-style-type: none;>Name = freeCodeCamp/freeCodeCamp, </li>
 	<li style="list-style-type: none;>Url = https://github.com/freeCodeCamp/freeCodeCamp, </li>
 	<li style="list-style-type: none;>Stars = 291417, </li>
@@ -121,7 +121,7 @@
 	<li>Contributor: patrickhlauke has made 2 commits]</li>
         </ul></li>
 }</ul></li>
-<li><ul>Repository{
+<li><ul style="list-style-type: none;>Repository{
 	<li style="list-style-type: none;>Name = nodejs/node, </li>
 	<li style="list-style-type: none;>Url = https://github.com/nodejs/node, </li>
 	<li style="list-style-type: none;>Stars = 42216, </li>
@@ -136,14 +136,14 @@
 	<li>Contributor: cjihrig has made 1 commits]</li>
         </ul></li>
 }</ul></li>
-<li><ul>Repository{
+<li><ul style="list-style-type: none;>Repository{
 	<li style="list-style-type: none;>Name = moby/moby, </li>
 	<li style="list-style-type: none;>Url = https://github.com/moby/moby, </li>
 	<li style="list-style-type: none;>Stars = 46321, </li>
 	<li style="list-style-type: none;>Description = Moby Project - a collaborative project for the container ecosystem to assemble container-based systems, </li>
 	<li style="list-style-type: none;>Language = Go, </li>
 	<li style="list-style-type: none;>Commits = 37, </li>
-	<li style="list-style-type: none;><ul>Top Contributors = [
+	<li ><ul>Top Contributors = [
 	<li>Contributor: web-flow has made 13 commits, </li>
 	<li>Contributor: dnephin has made 9 commits, </li>
 	<li>Contributor: ghislainbourgeois has made 4 commits, </li>
