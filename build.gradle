@@ -4,6 +4,13 @@ version '1.0-SNAPSHOT'
 apply plugin: 'java'
 apply plugin: 'jacoco'
 
+compileJava {
+
+    options.fork = true
+    options.forkOptions.with {
+        memoryMaximumSize = 2048m
+    }
+}
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 

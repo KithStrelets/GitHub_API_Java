@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.jacoco.examples.java.gradle.APIUsageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-11-13T15:25:56" hostname="TOSH" time="67.654">
+<testsuite name="org.jacoco.examples.java.gradle.APIUsageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-11-13T16:21:43" hostname="TOSH" time="90.349">
   <properties/>
-  <testcase name="testGetTenMostCommited" classname="org.jacoco.examples.java.gradle.APIUsageTest" time="67.654"/>
+  <testcase name="testGetTenMostCommited" classname="org.jacoco.examples.java.gradle.APIUsageTest" time="90.349"/>
   <system-out><![CDATA[getTenMostCommited
 [Repository{
 	Name = torvalds/linux, 
 	Url = https://github.com/torvalds/linux, 
-	Stars = 51844, 
+	Stars = 51846, 
 	Description = Linux kernel source tree, 
 	Language = C, 
 	Commits = 989, 
@@ -20,26 +20,26 @@
 , Repository{
 	Name = Microsoft/vscode, 
 	Url = https://github.com/Microsoft/vscode, 
-	Stars = 38145, 
+	Stars = 38151, 
 	Description = Visual Studio Code, 
 	Language = TypeScript, 
-	Commits = 222, 
+	Commits = 227, 
 	Top Contributors = [
 	Contributor: joaomoreno has made 50 commits, 
 	Contributor: bpasero has made 43 commits, 
-	Contributor: sandy081 has made 29 commits, 
-	Contributor: jrieken has made 28 commits, 
+	Contributor: sandy081 has made 34 commits, 
+	Contributor: jrieken has made 29 commits, 
 	Contributor: isidorn has made 15 commits]
 }
 , Repository{
 	Name = tensorflow/tensorflow, 
 	Url = https://github.com/tensorflow/tensorflow, 
-	Stars = 76922, 
+	Stars = 76925, 
 	Description = Computation using data flow graphs for scalable machine learning, 
 	Language = C++, 
-	Commits = 218, 
+	Commits = 217, 
 	Top Contributors = [
-	Contributor: tensorflower-gardener has made 117 commits, 
+	Contributor: tensorflower-gardener has made 116 commits, 
 	Contributor: martinwicke has made 61 commits, 
 	Contributor: web-flow has made 17 commits, 
 	Contributor: gunan has made 3 commits, 
@@ -48,12 +48,12 @@
 , Repository{
 	Name = apple/swift, 
 	Url = https://github.com/apple/swift, 
-	Stars = 41425, 
+	Stars = 41427, 
 	Description = The Swift Programming Language, 
 	Language = C++, 
-	Commits = 123, 
+	Commits = 122, 
 	Top Contributors = [
-	Contributor: web-flow has made 49 commits, 
+	Contributor: web-flow has made 48 commits, 
 	Contributor: slavapestov has made 23 commits, 
 	Contributor: gottesmm has made 12 commits, 
 	Contributor: graydon has made 7 commits, 
@@ -79,7 +79,7 @@
 	Stars = 37636, 
 	Description = Ruby on Rails, 
 	Language = Ruby, 
-	Commits = 47, 
+	Commits = 46, 
 	Top Contributors = [
 	Contributor: kamipo has made 14 commits, 
 	Contributor: web-flow has made 12 commits, 
@@ -90,17 +90,17 @@
 , Repository{
 	Name = facebook/react-native, 
 	Url = https://github.com/facebook/react-native, 
-	Stars = 55795, 
+	Stars = 55798, 
 	Description = A framework for building native apps with React., 
 	Language = JavaScript, 
-	Commits = 47, 
+	Commits = 45, 
 	Top Contributors = [
-	Contributor: facebook-github-bot has made 47 commits]
+	Contributor: facebook-github-bot has made 45 commits]
 }
 , Repository{
 	Name = twbs/bootstrap, 
 	Url = https://github.com/twbs/bootstrap, 
-	Stars = 117940, 
+	Stars = 117944, 
 	Description = The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web., 
 	Language = CSS, 
 	Commits = 44, 
@@ -114,32 +114,34 @@
 , Repository{
 	Name = nodejs/node, 
 	Url = https://github.com/nodejs/node, 
-	Stars = 42223, 
+	Stars = 42225, 
 	Description = Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:, 
 	Language = JavaScript, 
-	Commits = 38, 
+	Commits = 37, 
 	Top Contributors = [
-	Contributor: jasnell has made 13 commits, 
+	Contributor: jasnell has made 12 commits, 
 	Contributor: BridgeAR has made 9 commits, 
 	Contributor: refack has made 7 commits, 
 	Contributor: danbev has made 2 commits, 
 	Contributor: cjihrig has made 1 commits]
 }
 , Repository{
-	Name = moby/moby, 
-	Url = https://github.com/moby/moby, 
-	Stars = 46323, 
-	Description = Moby Project - a collaborative project for the container ecosystem to assemble container-based systems, 
-	Language = Go, 
-	Commits = 37, 
+	Name = atom/atom, 
+	Url = https://github.com/atom/atom, 
+	Stars = 41595, 
+	Description = :atom: The hackable text editor, 
+	Language = JavaScript, 
+	Commits = 36, 
 	Top Contributors = [
-	Contributor: web-flow has made 13 commits, 
-	Contributor: dnephin has made 9 commits, 
-	Contributor: ghislainbourgeois has made 4 commits, 
-	Contributor: jhowardmsft has made 2 commits, 
-	Contributor: simonferquel has made 2 commits]
+	Contributor: web-flow has made 17 commits, 
+	Contributor: as-cii has made 10 commits, 
+	Contributor: damieng has made 7 commits, 
+	Contributor: 50Wliu has made 1 commits, 
+	Contributor: joefitzgerald has made 1 commits]
 }
 ]
+Execution time: 90132ms
+Used memory: 7.79mb
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -25,7 +25,10 @@ public class APIUsageTest {
         System.out.println("getTenMostCommited");
         String sinceYYYYMMDD = "2017-09-01";
         String untilYYYYMMDD = "2017-09-07";
+        Metrics.start();
         ArrayList<Repository> result = instance.getTenMostCommited(instance.getMostStarredReps(), sinceYYYYMMDD, untilYYYYMMDD);
+        Metrics.stop();
+        Metrics.getAllMetrics();
         assertEquals(10, result.size());
         assertEquals(5, result.get(0).getTopContributors().size());
     }   
